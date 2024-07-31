@@ -4,15 +4,6 @@
   const items = [
     {
       imgSrc:
-      "src/routes/tiendita/file.jpg",
-      title: "Grilled Salmon",
-      description:
-        "Succulent salmon fillet grilled to perfection, served with a side of roasted vegetables.",
-      price: "$24.99",
-      likes: 8,
-    },
-    {
-      imgSrc:
         "https://instagram.fscl11-2.fna.fbcdn.net/v/t39.30808-6/397310981_17884035323957532_2494761078698259730_n.jpg?stp=dst-jpg_e35_p640x640_sh0.08&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTUyeDIwNDguc2RyLmYzMDgwOCJ9&_nc_ht=instagram.fscl11-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=MJmdFfaeBEUQ7kNvgFyPczM&edm=AGFyKLkAAAAA&ccb=7-5&ig_cache_key=MzIyNjcyNDgyMTg0OTA2MjM4OQ%3D%3D.2-ccb7-5&oh=00_AYCL5HtkwdtzmySVetkli1jniEoL_yCYenrLAnR_nnhcZQ&oe=66AB7DE8&_nc_sid=5a0a6d",
       title: "Lemon Meringue Pie",
       description:
